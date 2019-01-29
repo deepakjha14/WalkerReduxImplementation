@@ -1,0 +1,23 @@
+.example-card {
+    max-width: 400px;
+    background-color: azure;
+  }
+  
+  .example-header-image {
+    background-size: cover;
+  }
+  
+  .error-class{
+    color: red;
+    font:bold;
+  }
+
+  .container{
+    max-width: 500px;
+    min-width: 320px;
+    margin:auto;
+    margin-top:20px;
+    background-color: #f1f1f1;
+    border-radius:10px;
+    padding:10px;
+  }
